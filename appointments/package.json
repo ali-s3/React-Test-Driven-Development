@@ -1,0 +1,34 @@
+{
+  "name": "appointments",
+  "version": "1.0.0",
+  "description": "Appointments system",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali-s3/React-Test-Driven-Development.git"
+  },
+  "keywords": [
+    "hair",
+    "salon",
+    "online",
+    "appointments",
+    "appointments",
+    "system",
+    "react",
+    "project",
+    "tdd",
+    "react"
+  ],
+  "author": "Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ali-s3/React-Test-Driven-Development/issues"
+  },
+  "homepage": "https://github.com/ali-s3/React-Test-Driven-Development#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
